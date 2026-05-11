@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "E:\\AI\u4ea7\u51fa\\\u684c\u9762\u5ba0\u7269\\starlet\\output\\pet-runs\\naitang\\final\\spritesheet.webp",
+  "file": "F:\\weapp\\gitee\\codex-pet\\naitang\\final\\spritesheet.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "width": 1536,
@@ -69,112 +69,112 @@
       "row": 1,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16600
+      "nontransparent_pixels": 17451
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 16753
+      "nontransparent_pixels": 17028
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 16344
+      "nontransparent_pixels": 16442
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 16363
+      "nontransparent_pixels": 16965
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 16645
+      "nontransparent_pixels": 16976
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 16447
+      "nontransparent_pixels": 15804
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 16104
+      "nontransparent_pixels": 16688
     },
     {
       "state": "running-right",
       "row": 1,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 16102
+      "nontransparent_pixels": 16578
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 16102
+      "nontransparent_pixels": 17451
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 16104
+      "nontransparent_pixels": 17028
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 16447
+      "nontransparent_pixels": 16442
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 16645
+      "nontransparent_pixels": 16965
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 16363
+      "nontransparent_pixels": 16976
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 16344
+      "nontransparent_pixels": 15804
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 16753
+      "nontransparent_pixels": 16688
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 16600
+      "nontransparent_pixels": 16578
     },
     {
       "state": "waving",
